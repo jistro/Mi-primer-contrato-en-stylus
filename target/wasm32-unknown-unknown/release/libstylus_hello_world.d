@@ -1,0 +1,1 @@
+/home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/target/wasm32-unknown-unknown/release/libstylus_hello_world.rlib: /home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/src/erc20.rs /home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/src/lib.rs

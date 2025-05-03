@@ -1,0 +1,10 @@
+/home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/target/release/deps/liballoy_sol_macro_input-27393fe971f0d7b9.rmeta: /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/target/release/deps/liballoy_sol_macro_input-27393fe971f0d7b9.rlib: /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/jistro/GitHub/Mi-primer-contrato-en-stylus-EthereumMexico2024/target/release/deps/alloy_sol_macro_input-27393fe971f0d7b9.d: /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs /home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs
+
+/home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/lib.rs:
+/home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/attr.rs:
+/home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/input.rs:
+/home/jistro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-sol-macro-input-0.7.6/src/expander.rs:
